@@ -1,2 +1,3 @@
 # BrinnForBarnen
-My first HTML &amp; CSS project. More info in README
+My first HTML &amp; CSS project
+Sideproject, Not yet 100% done.
